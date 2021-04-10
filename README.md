@@ -1,1 +1,1 @@
-# git-hub-session
+# GitHub Session
